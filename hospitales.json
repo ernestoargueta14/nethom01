@@ -1,18 +1,18 @@
 [
   {
-    "key": "CPE_HN_General_Ahuachapan",
+    "key": "HAH",
     "latitude": 13.929286544938288,
     "longitude": -89.84628555430098,
-    "name": "CPE_HN_General_Ahuachapan"
+    "name": "H. Ahuachapan"
   },
   {
-    "key": "CPE_HN_General_Ciudad_Barrios",
+    "key": "HCB",
     "latitude": 13.766967551084887,
     "longitude": -88.26780454571673,
     "name": "H. Cdd. Barrios"
   },
   {
-    "key": "CPE_HN_Chalatenango",
+    "key": "HCH",
     "latitude": 14.03875419617173,
     "longitude": -88.9368199679007,
     "name": "H. Chalatenango"
@@ -72,7 +72,7 @@
     "name": "H. Sensuntepeque"
   },
   {
-    "key": "CPE_HN_Ilobasco",
+    "key": "HIL",
     "latitude": 13.839246629995342,
     "longitude": -88.85808174437503,
     "name": "H. Ilobasco"
