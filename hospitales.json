@@ -1,0 +1,164 @@
+[
+  {
+    "key": "HAH",
+    "latitude": 13.929286544938288,
+    "longitude": -89.84628555430098,
+    "name": "H. Ahuchapan"
+  },
+  {
+    "key": "HCB",
+    "latitude": 13.766967551084887,
+    "longitude": -88.26780454571673,
+    "name": "H. Cdd. Barrios"
+  },
+  {
+    "key": "HCH",
+    "latitude": 14.03875419617173,
+    "longitude": -88.9368199679007,
+    "name": "H. Chalatenango"
+  },
+  {
+    "key": "HCP",
+    "latitude": 13.989531234666222,
+    "longitude": -89.67840314580214,
+    "name": "H. Chalchuapa"
+  },
+  {
+    "key": "HMU",
+    "latitude": 13.690642238952995,
+    "longitude": -89.20382010575094,
+    "name": "H. De La Mujer"
+  },
+  {
+    "key": "HME",
+    "latitude": 14.329945501225774,
+    "longitude": -89.46903943133916,
+    "name": "H. Metapan"
+  },
+  {
+    "key": "HPS",
+    "latitude": 13.714307323384762,
+    "longitude": -89.13990983525466,
+    "name": "H. Psiquiatría"
+  },
+  {
+    "key": "HJI",
+    "latitude": 13.319441276720003,
+    "longitude": -88.57156015380534,
+    "name": "H. Jiquilisco"
+  },
+  {
+    "key": "HLU",
+    "latitude": 13.347367494462242,
+    "longitude": -87.87535141739708,
+    "name": "H. La Unión"
+  },
+  {
+    "key": "HNC",
+    "latitude": 14.131811915139163,
+    "longitude": -89.28849175520956,
+    "name": "H. Nva. Concepción"
+  },
+  {
+    "key": "HSL",
+    "latitude": 13.621238870394413,
+    "longitude": -87.89579752607001,
+    "name": "H. Santa Rosa de Lima"
+  },
+  {
+    "key": "HSE",
+    "latitude": 13.875825372262266,
+    "longitude": -88.6216230500503,
+    "name": "H. Sensuntepeque"
+  },
+  {
+    "key": "HIL",
+    "latitude": 13.839246629995342,
+    "longitude": -88.85808174437503,
+    "name": "H. Ilobasco"
+  },
+  {
+    "key": "HSR",
+    "latitude": 13.671175874782104,
+    "longitude": -89.27773318075695,
+    "name": "H. San Rafael"
+  },
+  {
+    "key": "HZC",
+    "latitude": 13.517760327301986,
+    "longitude": -88.8682396230998,
+    "name": "H. Zacatecoluca"
+  },
+  {
+    "key": "HNG",
+    "latitude": 13.538155193675163,
+    "longitude": -88.34892545548556,
+    "name": "H. Nueva Guadalupe"
+  },
+  {
+    "key": "HSM",
+    "latitude": 13.474177257480614,
+    "longitude": -88.19033175787258,
+    "name": "H. San Miguel"
+  },
+  {
+    "key": "HGO",
+    "latitude": 13.697501273212579,
+    "longitude": -88.1020018128875,
+    "name": "H. Gotera"
+  },
+  {
+    "key": "HNE",
+    "latitude": 13.647513405113283,
+    "longitude": -89.19492401924397,
+    "name": "H. Neumología"
+  },
+  {
+    "key": "HSA",
+    "latitude": 13.992147850993993,
+    "longitude": -89.550775982577,
+    "name": "H. Santa Ana"
+  },
+  {
+    "key": "HSG",
+    "latitude": 13.641066622550369,
+    "longitude": -88.78341000945375,
+    "name": "H. Santa Gertrudis"
+  },
+  {
+    "key": "HNS",
+    "latitude": 13.485106784329593,
+    "longitude": -88.46757881184205,
+    "name": "H. Santiago de Maria"
+  },
+  {
+    "key": "HSO",
+    "latitude": 13.722904935012398,
+    "longitude": -89.72899037691462,
+    "name": "H. Sonsonate"
+  },
+  {
+    "key": "HZA",
+    "latitude": 13.729116199646677,
+    "longitude": -89.20663985972006,
+    "name": "H. Zacamil"
+  },
+  {
+    "key": "HSB",
+    "latitude": 13.705412366352382,
+    "longitude": -89.10319909113356,
+    "name": "H. San Bartolo"
+  },
+  {
+    "key": "HSU",
+    "latitude": 13.933171670818197,
+    "longitude": -89.03003280019438,
+    "name": "H. Suchitoto"
+  },
+  {
+    "key": "HUS",
+    "latitude": 13.34329283596984,
+    "longitude": -88.44926078856132,
+    "name": "Usulutan"
+  }
+]
