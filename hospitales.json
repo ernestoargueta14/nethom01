@@ -1,11 +1,6 @@
 [
   {
-    "key": "h_ahuachapan",
-    "latitude": 13.929286544938288,
-    "longitude": -89.84628555430098,
-    "name": "h_ahuachapan"
-  },
-  {
+    
     "key": "h_ciudad_barrios",
     "latitude": 13.766967551084887,
     "longitude": -88.26780454571673,
@@ -16,5 +11,11 @@
     "latitude": 13.671175874782104,
     "longitude": -89.27773318075695,
     "name": "h_san_rafael"
+  },
+  {
+    "key": "h_ahuachapan",
+    "latitude": 13.929286544938288,
+    "longitude": -89.84628555430098,
+    "name": "h_ahuachapan" 
   }
 ]
