@@ -1,10 +1,99 @@
 [
   {
-    
+    "key": "h_ahuachapan",
+    "latitude": 13.929286544938288,
+    "longitude": -89.84628555430098,
+    "name": "h_ahuachapan"
+  },
+  {
+    "key": "h_chalatenango",
+    "latitude": 14.03875419617173,
+    "longitude": -88.9368199679007,
+    "name": "h_chalatenango"
+  },
+  {
+    "key": "h_chalchuapa",
+    "latitude": 13.989531234666222,
+    "longitude": -89.67840314580214,
+    "name": "h_chalchuapa"
+  },
+  {
     "key": "h_ciudad_barrios",
     "latitude": 13.766967551084887,
     "longitude": -88.26780454571673,
     "name": "h_ciudad_barrios"
+  },
+  {
+    "key": "h_de_la_mujer",
+    "latitude": 13.690642238952995,
+    "longitude": -89.20382010575094,
+    "name": "h_de_la_mujer"
+  },
+  {
+    "key": "h_gotera",
+    "latitude": 13.697501273212579,
+    "longitude": -88.1020018128875,
+    "name": "h_gotera"
+  },
+  {
+    "key": "h_ilobasco",
+    "latitude": 13.839246629995342,
+    "longitude": -88.85808174437503,
+    "name": "h_ilobasco"
+  },
+  {
+    "key": "h_jiquilisco",
+    "latitude": 13.319441276720003,
+    "longitude": -88.57156015380534,
+    "name": "h_jiquilisco"
+  },
+  {
+    "key": "h_la_union",
+    "latitude": 13.347367494462242,
+    "longitude": -87.87535141739708,
+    "name": "h_la_union"
+  },
+  {
+    "key": "h_metapan",
+    "latitude": 14.329945501225774,
+    "longitude": -89.46903943133916,
+    "name": "h_metapan"
+  },
+  {
+    "key": "h_nueva_concepcion",
+    "latitude": 14.131811915139163,
+    "longitude": -89.28849175520956,
+    "name": "h_nueva_concepcion"
+  },
+  {
+    "key": "h_nueva_guadalupe",
+    "latitude": 13.538155193675163,
+    "longitude": -88.34892545548556,
+    "name": "h_nueva_guadalupe"
+  },
+  {
+    "key": "h_psiquiatrico",
+    "latitude": 13.714307323384762,
+    "longitude": -89.13990983525466,
+    "name": "h_psiquiatrico"
+  },
+  {
+    "key": "h_saldana",
+    "latitude": 13.647513405113283,
+    "longitude": -89.19492401924397,
+    "name": "h_saldana"
+  },
+  {
+    "key": "h_san_bartolo",
+    "latitude": 13.705412366352382,
+    "longitude": -89.10319909113356,
+    "name": "h_san_bartolo"
+  },
+  {
+    "key": "h_san_miguel",
+    "latitude": 13.474177257480614,
+    "longitude": -88.19033175787258,
+    "name": "h_san_miguel"
   },
   {
     "key": "h_san_rafael",
@@ -13,9 +102,63 @@
     "name": "h_san_rafael"
   },
   {
-    "key": "h_ahuachapan",
-    "latitude": 13.929286544938288,
-    "longitude": -89.84628555430098,
-    "name": "h_ahuachapan" 
+    "key": "h_san_vicente",
+    "latitude": 13.641066622550369,
+    "longitude": -88.78341000945375,
+    "name": "h_san_vicente"
+  },
+  {
+    "key": "h_santa_ana",
+    "latitude": 13.992147850993993,
+    "longitude": -89.550775982577,
+    "name": "h_santa_ana"
+  },
+  {
+    "key": "h_santa_rosa_de_lima",
+    "latitude": 13.621238870394413,
+    "longitude": -87.89579752607001,
+    "name": "h_santa_rosa_de_lima"
+  },
+  {
+    "key": "h_santiago_de_maria",
+    "latitude": 13.485106784329593,
+    "longitude": -88.46757881184205,
+    "name": "h_santiago_de_maria"
+  },
+  {
+    "key": "h_sensuntepeque",
+    "latitude": 13.875825372262266,
+    "longitude": -88.6216230500503,
+    "name": "h_sensuntepeque"
+  },
+  {
+    "key": "h_sonsonate",
+    "latitude": 13.722904935012398,
+    "longitude": -89.72899037691462,
+    "name": "h_sonsonate"
+  },
+  {
+    "key": "h_suchitoto",
+    "latitude": 13.933171670818197,
+    "longitude": -89.03003280019438,
+    "name": "h_suchitoto"
+  },
+  {
+    "key": "h_usulutan",
+    "latitude": 13.34329283596984,
+    "longitude": -88.44926078856132,
+    "name": "h_usulutan"
+  },
+  {
+    "key": "h_zacamil",
+    "latitude": 13.729116199646677,
+    "longitude": -89.20663985972006,
+    "name": "h_zacamil"
+  },
+  {
+    "key": "h_zacatecoluca",
+    "latitude": 13.517760327301986,
+    "longitude": -88.8682396230998,
+    "name": "h_zacatecoluca"
   }
 ]
